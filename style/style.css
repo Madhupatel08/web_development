@@ -1,0 +1,30 @@
+
+body {
+  background-color: #ddf3f5;
+  background-color: grey;
+  padding-top: 144px;
+
+}
+
+.my-navbar{
+  padding-left: 37px;
+  padding-top: 37px;
+}
+.top-stories {
+  margin: 6px;
+  background-color: grey;
+}
+
+.my-navbar{
+  text-decoration: white;
+  position: relative;
+}
+
+.dropdown-text{
+    padding-left: 5px;
+}
+
+#feed-section {
+  position:absolute;
+ top:100px;
+}
